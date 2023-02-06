@@ -1,7 +1,8 @@
 # SkyWatch: Tracking the Impact of COVID-19 on the Aviation Industry
 
 ## Team Members
-Duo Deng and Marcel Zhang  
+* Duo Deng 
+* Marcel Zhang  
 
 ## Objective
 This Business Intelligence project aims to analyze the impact of COVID-19 on the aviation industry by investigating changes in air traffic during the pandemic.  
