@@ -9,7 +9,7 @@ This Business Intelligence project aims to analyze the impact of COVID-19 on the
 
 ## Data Sources
 1. A dataset derived from [OpenSky](https://zenodo.org/record/7323875#.Y-D7PHOZO3K) with information on 80 million flights from early 2020 to late 2022, including airline codes, departure and arrival times, and departure and arrival coordinates.
-2. COVID-19 case data from the [World Health Organization](https://covid19.who.int/data) during the same period with over 200 thousand observations. The features of this dataset are the date of reported cases, countries, number of new cases, and cumulative cases.  
+2. COVID-19 case data from the [World Health Organization (WHO)](https://covid19.who.int/data) during the same period with over 200 thousand observations. The features of this dataset are the date of reported cases, countries, number of new cases, and cumulative cases.  
 
 *Note: The flight data for this project will be randomly sampled from the full datasets to ensure manageable processing time.*
 
